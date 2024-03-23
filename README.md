@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Puzzle Game**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **[Gmail](mailto:GauravKumar869999@gmail.com)**
 
 - ⚡ Fun fact **I Think I'm Little Lazy...**
